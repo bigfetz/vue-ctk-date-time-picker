@@ -41,8 +41,6 @@
     "babel-jest": "^23.6.0",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
-    "moment": "^2.24.0",
-    "moment-range": "^4.0.1",
     "node-sass": "^5.0.0",
     "sass-loader": "^7.1.0",
     "vue": "^2.5.22",
